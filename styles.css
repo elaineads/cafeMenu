@@ -83,7 +83,7 @@ body {
     color: black;
   }
   
-  a:visited { 
+  a:visited {
     color: black;
   }
   
@@ -91,6 +91,6 @@ body {
     color: brown;
   }
   
-  a:active {
+  a:active { /* link selecionado */
     color: brown;
   }
